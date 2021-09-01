@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="564eb28d-bd5b-4c58-bcf1-5fc70e490f1f" name="Default Changelist" comment="gitignore 업데이트">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    <list default="true" id="564eb28d-bd5b-4c58-bcf1-5fc70e490f1f" name="Default Changelist" comment="Init 및 과제01 추가">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework01/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework01/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,17 +54,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
@@ -85,8 +74,24 @@
       <updated>1630371332528</updated>
       <workItem from="1630371333797" duration="689000" />
       <workItem from="1630372055975" duration="1020000" />
-      <workItem from="1630373112746" duration="7344000" />
+      <workItem from="1630373112746" duration="7580000" />
+      <workItem from="1630483939545" duration="9000" />
     </task>
+    <task id="LOCAL-00001" summary="gitignore 업데이트">
+      <created>1630478629773</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1630478629774</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Init 및 과제01 추가">
+      <created>1630478735778</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1630478735778</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,10 +107,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="gitignore 업데이트" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitignore 업데이트" />
+    <MESSAGE value="Init 및 과제01 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init 및 과제01 추가" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
