@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a760110-8809-4d4a-a61d-6562d66b8489" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_Str.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework01/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework01/homework01.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework01/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework01/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework01/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework01/src/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/homework01/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/homework01/Student$WithDept.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/homework01/Student$WithGrade.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/homework01/Student$WithName.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/homework01/Student.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,17 +46,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
@@ -89,6 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1630542232133</updated>
       <workItem from="1630542238843" duration="139000" />
+      <workItem from="1630567980625" duration="142000" />
     </task>
     <servers />
   </component>
@@ -105,5 +78,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
