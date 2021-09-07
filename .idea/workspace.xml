@@ -2,22 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4605058c-197e-4e89-96e4-87d15e701c32" name="Default Changelist" comment="과제02 예제 추가">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework02/homework02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework02/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework02/src/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework02/src/SList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/homework02/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/homework02/Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/homework02/SList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/homework01/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/homework01/Student$WithDept.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/homework01/Student$WithGrade.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/homework01/Student$WithName.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/homework01/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework01/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework01/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework01/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework01/src/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework02/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework02/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +48,30 @@
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RunManager" selected="Application.homework02">
+    <configuration name="homework01" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="homework01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homework02" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="homework02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.homework01" />
+      <item itemvalue="Application.homework02" />
+    </list>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -70,6 +83,7 @@
       <workItem from="1630986979404" duration="305000" />
       <workItem from="1630987389298" duration="320000" />
       <workItem from="1630987927785" duration="4664000" />
+      <workItem from="1630999931170" duration="606000" />
     </task>
     <servers />
   </component>
@@ -86,6 +100,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="과제02 예제 추가" />
