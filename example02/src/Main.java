@@ -11,7 +11,7 @@ public class Main {
         s.insertFront("Orange");
         s.insertFront("Apple");
         s.insertAfter("Cherry", s.head.getNext());
-        s.insertFront("pear");
+        s.insertFront("Pear");
 
         s.print();
         System.out.println(": s의 길이 = " + s.size() + "\n");
