@@ -1,5 +1,5 @@
 /*
- * 과제: homework02
+ * 주제: Singly Linked List
  * 이름: 이호민
  * 학번: 201735030
  */

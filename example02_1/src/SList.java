@@ -1,3 +1,9 @@
+/*
+ * 주제: Singly Linked List
+ * 이름: 이호민
+ * 학번: 201735030
+ */
+
 import java.util.NoSuchElementException;
 
 public class SList <E> {

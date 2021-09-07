@@ -1,3 +1,9 @@
+/*
+ * 주제: Singly Linked List
+ * 이름: 이호민
+ * 학번: 201735030
+ */
+
 public class Node <E>{
     private E item;
     private Node<E> next;
