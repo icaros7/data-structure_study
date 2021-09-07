@@ -14,8 +14,8 @@ public class SList <E> {
     public void print(){
         Node c = head;
         for (int k = 0; k < size; k++){
-            System.out.println(c.getItem());
-            c = head.getNext();
+            System.out.print(c.getItem() + " ");
+            c = c.getNext();
         }
     }
 
