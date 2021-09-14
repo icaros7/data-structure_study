@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2547be2f-2ab8-48f8-bac1-f185d3784925" name="Changes" comment="`example02_3` 추가">
+      <change afterPath="$PROJECT_DIR$/homework03/homework03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework03/src/ListStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework03/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework03/src/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,14 +51,15 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="sshConsole" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.homework02">
+  <component name="RunManager" selected="Application.homework03">
     <configuration name="example02_1" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -99,12 +105,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="homework03" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="homework03" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.example02_1" />
       <item itemvalue="Application.example02_2" />
       <item itemvalue="Application.example02_3" />
       <item itemvalue="Application.homework01" />
       <item itemvalue="Application.homework02" />
+      <item itemvalue="Application.homework03" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -125,6 +154,8 @@
       <workItem from="1631059312871" duration="6057000" />
       <workItem from="1631100892063" duration="4097000" />
       <workItem from="1631581482066" duration="151000" />
+      <workItem from="1631582214725" duration="1739000" />
+      <workItem from="1631584010648" duration="9334000" />
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
