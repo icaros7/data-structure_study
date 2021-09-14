@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2547be2f-2ab8-48f8-bac1-f185d3784925" name="Changes" comment="`example02_3` 추가">
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework02/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework02/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework02/src/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework02/src/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework02/src/SList.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework02/src/SList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +46,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="sshConsole" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -103,17 +99,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.example02_1" />
       <item itemvalue="Application.example02_2" />
@@ -139,6 +124,7 @@
       <updated>1631059303150</updated>
       <workItem from="1631059312871" duration="6057000" />
       <workItem from="1631100892063" duration="4097000" />
+      <workItem from="1631581482066" duration="151000" />
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
