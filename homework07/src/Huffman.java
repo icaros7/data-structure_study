@@ -57,6 +57,13 @@ public class Huffman {
         a[++N] = temp;                              // 새로운 키를 배열 마지막 항목 다음에 저장
         upHeap(N);                                  // 위로 올라가며 힙속성 회복 준비
     }
+    public void insert(Entry entry) {
+        a[++N] = entry;
+        upHeap(N);
+    }
+
+    // 배열 수 반환 메서드
+    public int getSize() { return N; }
 
     // 힙 생성 메서드
     public void createHeap() { for(int i = N/2; i > 0; i--) { downHeap(i); } }
