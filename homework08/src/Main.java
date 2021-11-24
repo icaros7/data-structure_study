@@ -3,7 +3,6 @@
  * 작성: 201735030 이호민
  * 파일: Main.java
  */
-import java.sql.Time;
 import java.util.Scanner;
 import java.lang.Comparable;
 
